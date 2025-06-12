@@ -1,3 +1,8 @@
+---
+layout: page
+title: My Cool App
+permalink: /my-app/
+---
 # Simple Data Tracker: privacy policy
 
 Simple Data Tracker is a flutter hobby project writen, developped, and maintained by Štěpán Svoboda to best of his skills, knowledge, possibilities, and time.
