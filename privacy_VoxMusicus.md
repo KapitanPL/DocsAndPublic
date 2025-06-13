@@ -1,3 +1,7 @@
+---
+title: VoxMusicus: Privacy policy
+nav_exclude: true
+---
 # Privacy policy 
 
 **Last Updated: 4/2/24**
