@@ -2,7 +2,7 @@
 title: DataTracker: Privacy policy
 ---
 
-[DataTracker](/) | [Privacy policy](/privacy_DataTracker.md)
+[DataTracker](/index.md) | [Privacy policy](/privacy_DataTracker.md)
 
 ## Simple Data Tracker: privacy policy
 
