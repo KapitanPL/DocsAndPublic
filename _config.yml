@@ -1,5 +1,5 @@
 title: PaperFleeetCaptain
 theme: minima
 header_pages: 
-  - /DataTracker/index.md
-  - /VoxMusicus/index.md
+  - DataTracker/index.md
+  - VoxMusicus/index.md
