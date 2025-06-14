@@ -1,7 +1,10 @@
 ---
 title: DataTracker: Privacy policy
 ---
-# Simple Data Tracker: privacy policy
+
+[DataTracker](/) | [Privacy policy](/privacy_DataTracker.md)
+
+## Simple Data Tracker: privacy policy
 
 Simple Data Tracker is a flutter hobby project writen, developped, and maintained by Štěpán Svoboda to best of his skills, knowledge, possibilities, and time.
 
