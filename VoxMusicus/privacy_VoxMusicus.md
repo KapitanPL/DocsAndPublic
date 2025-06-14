@@ -1,7 +1,9 @@
 ---
 title: VoxMusicus: Privacy policy
 ---
-# Privacy policy 
+[VoxMusicus](/index.md) | [Privacy policy](/privacy_VoxMusicus.md)
+
+# VoxMusicus: privacy Policy
 
 **Last Updated: 4/2/24**
 

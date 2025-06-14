@@ -4,7 +4,7 @@ title: DataTracker
 ---
 [DataTracker](/) | [Privacy policy](/privacy_DataTracker.md)
 
-## About
+## About DataTracker
 
 *DataTracker* was designed to be a simple tool to log progress. Any kind of progress. My original intention was to keep track of my weight. To get fit.
 

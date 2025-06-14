@@ -5,7 +5,7 @@ title: VoxMusicus
 
 [VoxMusicus](/index.md) | [Privacy policy](/privacy_VoxMusicus.md)
 
-## About
+## About VoxMusicus
 
 *VoxMusicus* is an iddle tapper, musical instrument, emotion expression tool... Original inspiration was by *ThereminVox*
 
