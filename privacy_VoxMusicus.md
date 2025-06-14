@@ -1,6 +1,5 @@
 ---
 title: VoxMusicus: Privacy policy
-nav_exclude: true
 ---
 # Privacy policy 
 

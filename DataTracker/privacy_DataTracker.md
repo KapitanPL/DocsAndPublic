@@ -1,6 +1,5 @@
 ---
 title: DataTracker: Privacy policy
-nav_exclude: true
 ---
 # Simple Data Tracker: privacy policy
 

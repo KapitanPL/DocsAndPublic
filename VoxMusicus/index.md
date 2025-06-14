@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DataTracker
+title: VoxMusicus
 ---
 
 *VoxMusicus* is an iddle tapper, musical instrument, emotion expression tool... Original inspiration was by *ThereminVox*

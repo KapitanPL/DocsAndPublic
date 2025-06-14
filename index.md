@@ -1,5 +1,3 @@
-[Home](/) | [DataTracker](/DataTracker/) | [VoxMusicus](/VoxMusicus/)
-
 # Welcome
 
 Hi! 
